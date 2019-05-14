@@ -1,4 +1,4 @@
-# webapp
+# webapp課題galleryサイト
 
 ## Project setup
 ```
